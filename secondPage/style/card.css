@@ -1,0 +1,106 @@
+.main-content-shares-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding-right: 94px;
+}
+.shares-card-holder {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 340px;
+  height: 477px;
+  background: #fff;
+  border-radius: 6px;
+}
+.shares-card-img {
+  padding: 10px 10px 0;
+}
+.shares-card-img img {
+  width: 323px;
+  height: 323px;
+}
+.shares-about-card {
+  margin-left: 10px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+.card-name-author {
+  margin-top: 20px;
+  font-family: "Gilroy";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+.card-name {
+  font-family: "Gilroy";
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  color: black;
+}
+.card-author-img {
+  position: absolute;
+  margin-left: 280px;
+  top: 570px;
+}
+.card-raised {
+  margin-top: 21px;
+  font-family: "Gilroy";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #707070;
+}
+.card-token-count {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #707070;
+}
+.card-price {
+  font-family: "Gilroy";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: black;
+}
+.card-count-text {
+  position: absolute;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #707070;
+  margin-left: 249px;
+  top: 655px;
+}
+.card-btn {
+  display: flex;
+  display: none;
+  width: 320px;
+  height: 40px;
+  background: #262626;
+}
+.card-btn img {
+  width: 20px;
+  height: 20px;
+  padding: 11px 0px 11px 88px;
+}
+.card-btn a {
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+  padding: 11px 88px 11px 5px;
+}
+
+.card-btn-hover {
+  display: flex;
+}
+.shares-card-holder:hover {
+  height: 522px;
+}

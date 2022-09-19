@@ -1,0 +1,45 @@
+.main {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f5f5f5;
+}
+.main_container {
+}
+.main-header {
+  display: flex;
+  margin-left: 64px;
+  padding-right: 64px;
+  margin-top: 42px;
+}
+.main-header-search {
+  display: flex;
+}
+.main-header-search input {
+  width: 547.76px;
+  height: 60px;
+  padding: 21px 0px 20px 31px;
+  font-family: "Gilroy";
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #949caf;
+  border: 0px solid white;
+}
+.search-btn {
+  position: absolute;
+  left: 883.8px;
+  top: 62.98px;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.main-header-notification {
+  display: flex;
+  align-items: center;
+  margin-left: 778px;
+  margin-right: 26px;
+}
+.main-header-profile {
+}
+.main-header-profile img {
+  border-radius: 50px;
+}

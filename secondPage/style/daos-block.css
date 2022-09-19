@@ -1,0 +1,66 @@
+.daos-block {
+  position: absolute;
+  top: 776px;
+  left: 1474px;
+}
+.daos-title {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  color: #262626;
+}
+.daos-content {
+  margin-top: 24px;
+  padding: 40px 24px;
+  background-color: white;
+}
+.daos-card {
+}
+.daos-cardholder {
+  display: flex;
+  padding-top: 50px;
+}
+#first-ch-daos {
+  padding-top: 0px;
+}
+.daos-img {
+}
+.daos-name {
+  width: 170px;
+  height: 30px;
+  text-transform: uppercase;
+  font-family: "Gilroy";
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 21px;
+  color: #262626;
+}
+.daos-subname {
+    position: absolute;
+    margin-top: 24px;
+    left: 90px;
+  width: 111px;
+  height: 13px;
+  font-family: "Gilroy";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #262626;
+}
+.daos-btn button {
+    margin-top: 69px;
+    width: 412px;
+height: 48px;
+border: 1px solid #262626;
+background: #FFFFFF;
+border-radius: 6px;
+
+font-family: 'Inter';
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.03em;
+color: #262626;
+}

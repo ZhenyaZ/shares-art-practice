@@ -1,0 +1,124 @@
+.nav {
+    width: 100%;
+}
+.nav-menu {
+  font-family: "Gilroy";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+}
+.nav-menu a {
+  color: #949caf;
+}
+.menu-item-homepage {
+  margin-bottom: 24px;
+  list-style-image: url(/secondPage/img/icon/basics/overviewwallets_icon.png);
+}
+.menu-item-homepage:hover {
+  color: #262626;
+}
+/* ----------------------- */
+/* ----WALLETS----- */
+.menu-wallets {
+  margin-bottom: 24px;
+  list-style-image: url(/secondPage/img/icon/basics/wallets_icon.png);
+}
+
+.menu-item-wallets {
+  display: none;
+}
+.menu-item-wallets-active {
+  display: block;
+}
+.menu-wallets a:hover {
+  color: #262626;
+}
+.wallets-coin-bitcoin {
+  padding-top: 22.5px;
+  list-style-image: url(/secondPage/img/icon/coins/bitcoin_icon.png);
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3f444e;
+  padding-bottom: 22.5px;
+}
+.wallets-coin-etherium {
+  padding-bottom: 22.5px;
+  list-style-image: url(/secondPage/img/icon/coins/etherium_icon.png);
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3f444e;
+}
+.wallets-coin-tether {
+  padding-bottom: 22.5px;
+  list-style-image: url(/secondPage/img/icon/coins/tether_icon.png);
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3f444e;
+}
+/* -------------------------------- */
+/* -----CARD------- */
+.menu-card {
+  margin-bottom: 24px;
+  list-style-image: url(/secondPage/img/icon/basics/credit-card_icon.png);
+}
+.menu-card a:hover {
+  color: #262626;
+}
+.menu-item-card {
+  display: none;
+  list-style-image: url(/secondPage/img/icon/basics/visa_icon.png);
+}
+.menu-item-card-active {
+  display: block;
+}
+.menu-item-num-card {
+    font-family: 'Inter';
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #3F444E;
+}
+/* -------------------------- */
+/* -----MYDAOS----- */
+.menu-item-mydaos {
+  margin-bottom: 24px;
+  list-style-image: url(/secondPage/img/icon/basics/myDaos_icon.png);
+}
+.menu-item-mydaos:hover {
+  color: #262626;
+}
+/* ------------------- */
+/* -----PROFILE----- */
+.menu-item-profile {
+  list-style-image: url(/secondPage/img/icon/basics/profile_icon.png);
+}
+.menu-item-profile:hover {
+  color: #262626;
+}
+/* ---------------- */
+
+.menu-item-setting {
+    margin-top: 168px;
+    list-style-image: url(/secondPage/img/icon/basics/settings_icon.png);
+}
+.menu-item-setting:hover{
+    color: #262626;
+}
+.menu-item-faq {
+    margin-top: 24px;
+    margin-bottom: 590px;
+    list-style-image: url(/secondPage/img/icon/basics/faq_icon.png);
+}
+.menu-item-faq:hover{
+    color: #262626;
+}

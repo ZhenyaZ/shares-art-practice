@@ -1,0 +1,61 @@
+.main-content-shares-bar {
+  display: flex;
+  align-items: center;
+}
+.shares-bar-title {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  color: #262626;
+}
+.shares-bar-view {
+    margin-left: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.03em;
+  color: #262626;
+  text-decoration: underline;
+}
+
+.shares-bar-filter {
+  display: flex;
+margin-left: 893px;
+}
+.filter-btn {
+}
+.shares-filter-form {
+    padding: 0px 0px 0px 15px;
+  width: 231px;
+  height: 48px;
+  border: 1px solid #262626;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.preview-btn {
+  width: 48px;
+  height: 48px;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.preview-btn:hover {
+  border: 1px solid #262626;
+}
+.next-btn {
+  width: 48px;
+  height: 48px;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.next-btn:hover {
+  border: 1px solid #262626;
+}

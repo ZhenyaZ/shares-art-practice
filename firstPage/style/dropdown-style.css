@@ -1,0 +1,59 @@
+/* BTN STYLES */
+.answer-dropdown-btn {
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+  padding-left: 825px;
+}
+.answer-dropdown-btn img {
+  width: 24px;
+  height: 24px;
+}
+/* -------------- */
+/* DROPDOWN STYLES */
+.answer-wrapper-dropdown-fullsize-container {
+    width: 1920px;
+    padding-top: 170px;
+}
+.answer-wrapper-dropdown-container {
+    overflow: hidden;
+    padding: 16px 0px 25px 16px;
+    margin-left: 370px;
+    border-bottom: 1px solid #ffffff;   
+    width: 1180px;
+}
+.answer-wrapper-dropdown {
+  overflow: hidden;
+  padding: 16px 0px 25px 16px;
+  border-bottom: 1px solid #ffffff;
+  width: 1180px;
+}
+.answer-dropdown-title-container {
+}
+.answer-dropdown-title {
+  white-space: nowrap;
+  display: inline-block;
+  margin-top: 16px;
+  min-width: 322px;
+  min-height: 24px;
+  font-family: "Gilroy";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.answer-dropdown-menu {
+  display: none;
+  margin-top: 25px;
+}
+.answer-dropdown-menu-active {
+  display: block;
+}
+.answer-dropdown-item {
+  font-family: "Gilroy";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+/* ---------------- */

@@ -1,0 +1,26 @@
+.heeader {
+    width: 372px;
+height: 1574px;
+}
+.header_container {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.header_logo {
+  margin-top: 34px;
+  width: 191px;
+  height: 32px;
+}
+.header-chart {
+  margin-top: 40px;
+  margin-bottom: 67px;
+
+  width: 292px;
+  height: 184px;
+  background-color: #f7f8fa;
+  border-radius: 12px;
+}
+.header-chart canvas {
+  width: 292px;
+  height: 184px;
+}

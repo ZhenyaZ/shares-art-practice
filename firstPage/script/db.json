@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "card": [
+    {
+      "img": "/firstPage/img/label/edgge666.png",
+      "name-author": "Emily Lazar",
+      "card-name": "Personally",
+      "card-price": "1.75 ETH",
+      "total-token": "5200"
+    },
+    {
+      "img": "/firstPage/img/label/edge6662107.png",
+      "name-author": "Lorem",
+      "card-name": "IPSUM",
+      "card-price": "1.765 ETH",
+      "total-token": "5200"
+    },
+    {
+      "img": "/firstPage/img/label/spongeBobChill.png",
+      "name-author": "Lorem",
+      "card-name": "IPSUM",
+      "card-price": "1.765 ETH",
+      "total-token": "5200"
+    },
+    {
+      "img": "/firstPage/img/label/edge666Eternity.png",
+      "name-author": "Lorem",
+      "card-name": "IPSUM",
+      "card-price": "1.765 ETH",
+      "total-token": "5200"
+    },
+    {
+      "img": "/firstPage/img/label/edge666Purple.png",
+      "name-author": "Lorem",
+      "card-name": "IPSUM",
+      "card-price": "1.765 ETH",
+      "total-token": "5200"
+    }
+  ],
+  "pre-register": [
+    {},
+    {
+      "preRegEmail": "example@dot.net",
+      "id": "370.4556438728497"
+    },
+    {
+      "preRegEmail": "",
+      "id": "330.3850050671334"
+    },
+    {
+      "preRegEmail": "",
+      "id": "87.20835106026747"
+    },
+    {
+      "preRegEmail": "lalalal@example.com",
+      "id": "989.3865831120146"
+    },
+    {
+      "preRegEmail": "lalalal2@example.com",
+      "id": "454.7974654402227"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
